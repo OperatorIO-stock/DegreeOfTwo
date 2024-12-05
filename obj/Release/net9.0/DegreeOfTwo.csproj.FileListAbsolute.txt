@@ -1,0 +1,14 @@
+/home/casper/Документы/Codes/DegreeOfTwo/bin/Release/net9.0/DegreeOfTwo
+/home/casper/Документы/Codes/DegreeOfTwo/bin/Release/net9.0/DegreeOfTwo.deps.json
+/home/casper/Документы/Codes/DegreeOfTwo/bin/Release/net9.0/DegreeOfTwo.runtimeconfig.json
+/home/casper/Документы/Codes/DegreeOfTwo/bin/Release/net9.0/DegreeOfTwo.dll
+/home/casper/Документы/Codes/DegreeOfTwo/bin/Release/net9.0/DegreeOfTwo.pdb
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.AssemblyInfoInputs.cache
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.AssemblyInfo.cs
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.csproj.CoreCompileInputs.cache
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.dll
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/refint/DegreeOfTwo.dll
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.pdb
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/DegreeOfTwo.genruntimeconfig.cache
+/home/casper/Документы/Codes/DegreeOfTwo/obj/Release/net9.0/ref/DegreeOfTwo.dll
